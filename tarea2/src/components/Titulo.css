@@ -1,0 +1,11 @@
+.styles{
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        color: brown;
+        margin-top: 50px;
+    }
+
